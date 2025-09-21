@@ -1,0 +1,15 @@
+{
+    "weight": 40,
+    "height": 3,
+    "moves": [
+        "transform"
+    ],
+    "abilities": [
+        "limber",
+        "imposter"
+    ],
+    "types": [
+        "normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
+}
